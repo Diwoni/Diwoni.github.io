@@ -15,11 +15,11 @@ $indent-var: 0.7lem !default;
 $global-font-family: "Ownglyph_corncorn-Rg", $sans-serif !default;
 
 /* system typefaces */
-$serif: Georgia, Times, serif !default;
+$serif: "Ownglyph_corncorn-Rg", Georgia, Times, serif !default;
 /* 2022.01.19 font change */
-$sans-serif: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+$sans-serif: "Ownglyph_corncorn-Rg",-apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
   "Montserrat", "Pretendard", "Merriweather", sans-serif !default;
-$monospace: "Fira Mono", "Pretendard", Monaco, Consolas, "Lucida Console",
+$monospace: "Ownglyph_corncorn-Rg", "Fira Mono", "Pretendard", Monaco, Consolas, "Lucida Console",
   monospace !default;
 
 /* sans serif typefaces */
