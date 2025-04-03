@@ -1,9 +1,9 @@
 ---
 title: "프로젝트 설정"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/프로젝트 설정/
 author_profile: true
-taxonomy: Categories1
+taxonomy: 프로젝트 설정
 sidebar:
   nav: "categories"
 ---
