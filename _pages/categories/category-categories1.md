@@ -1,5 +1,5 @@
 ---
-title: "Categories1"
+title: "프로젝트 설정"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
